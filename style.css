@@ -6,7 +6,12 @@ body {
   align-items: center;
 }
 
-h1,h2 {
+h1 {
+  font-size: medium;
+  -webkit-text-stroke: 1.0px white;
+}
+
+h2 {
   font-size: medium;
   -webkit-text-stroke: 1.0px white;
 }
