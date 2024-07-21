@@ -4,15 +4,6 @@ body {
   background-attachment: fixed;
   align-content: center;
   align-items: center;
-}
-
-h1 {
-  font-size: medium;
-  -webkit-text-stroke: 1.0px white;
-}
-
-h2 {
-  font-size: medium;
   -webkit-text-stroke: 1.0px white;
 }
 
