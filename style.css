@@ -6,4 +6,9 @@ body {
 
 .principal {
   text-align: center;
+  font-family: Sans-Serif;
+}
+
+.up {
+  background-repeat: repeat-x;
 }
